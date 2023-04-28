@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: ab00983a0c6903c4b92d0b3ee14f4184
+  - enabled: 1
+    path: Assets/Scenes/LiminalSpace.unity
+    guid: dcce49a417de35642a091ad5dc692b87
+  - enabled: 1
+    path: Assets/Scenes/Inperu_Daun.unity
+    guid: 6394c4d59d4824f4ea90530acb4b8411
+  - enabled: 1
+    path: Assets/Scenes/GameLevel.unity
+    guid: f1919c3a15ff9024f9ef7126b9a4e193
+  - enabled: 1
+    path: Assets/Scenes/Imperu_ShrinkDemo.unity
+    guid: b33f7202034d3aa4fa1488000e42d249
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5eb4c166d3eb2d34d8a2fd10f6cd42a8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8bf7b7b64df0c6e42b7f8df03e9a5596,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e2ff2469ae20893439db3bd1766a1248,
+      type: 2}
